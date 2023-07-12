@@ -1,0 +1,91 @@
+ .con{
+    height: 500px;
+    width: 950px;
+    border: 1px solid black;
+}
+.head{
+    height: 150px;
+    width: 180px;
+    background-color: blue;
+    border-radius: 190px 190px 0px 0px;
+    position: absolute;
+    margin-left: 180px;
+    margin-top: 45px;
+}
+.e1{
+    height: 13px;
+    width: 12px;
+    background-color: white;
+    border-radius: 120px 120px 120px 120px;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: 100px;
+
+
+}
+.e2{
+    height: 13px;
+    width: 12px;
+    background-color: white;
+    border-radius: 120px 120px 120px 120px;
+    position: fixed;
+    margin-left: 130px;
+    margin-top: 100px;
+
+
+}
+.body{
+    height: 180px;
+    width: 180px;
+    background-color: red;
+    border-radius: 0px 0px 40px 40px;
+    position: fixed;
+    margin-left: 180px;
+    margin-top: 200px;
+
+
+}
+.l1{
+    height: 90px;
+    width: 40px;
+    background-color: red;
+    border-radius: 0px 0px 40px 40px;
+    position: fixed;
+    margin-left: 40px;
+    margin-top: 150px;
+
+
+}
+.l2{
+    height: 90px;
+    width: 40px;
+    background-color: red;
+    border-radius: 0px 0px 40px 40px;
+    position: fixed;
+    margin-left: 107px;
+    margin-top: 150px;
+
+
+}
+.h1{
+    height: 110px;
+    width: 40px;
+    background-color: green;
+    border-radius: 40px 40px 40px 40px;
+    position: fixed;
+    margin-left: -50px;
+    margin-top: 20px;
+
+
+}
+.h2{
+    height: 110px;
+    width: 40px;
+    background-color: green;
+    border-radius: 40px 40px 40px 40px;
+    position: fixed;
+    margin-left: 189px;
+    margin-top: 20px;
+
+
+}
